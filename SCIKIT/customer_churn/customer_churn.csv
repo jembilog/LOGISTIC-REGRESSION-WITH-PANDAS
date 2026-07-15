@@ -1,0 +1,33 @@
+Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,SupportCalls,Churn
+25,Male,12,55.2,Month-to-month,Fiber,1,No
+42,Female,36,89.5,One year,Fiber,0,No
+35,Male,8,70.1,Month-to-month,DSL,3,Yes
+51,Female,60,95.3,Two year,Fiber,0,No
+29,Female,5,45.8,Month-to-month,None,4,Yes
+46,Male,48,82.6,One year,DSL,1,No
+38,Female,15,65.4,Month-to-month,Fiber,2,Yes
+55,Male,72,99.9,Two year,Fiber,0,No
+31,Female,10,58.7,Month-to-month,DSL,3,Yes
+40,Male,24,78.5,One year,Fiber,1,No
+27,Male,6,49.3,Month-to-month,None,5,Yes
+50,Female,54,91.2,Two year,Fiber,0,No
+33,Female,18,67.8,Month-to-month,DSL,2,Yes
+47,Male,42,84.1,One year,Fiber,1,No
+36,Female,14,63.5,Month-to-month,Fiber,2,Yes
+58,Male,84,105.6,Two year,Fiber,0,No
+30,Female,9,56.1,Month-to-month,DSL,4,Yes
+44,Male,30,81.4,One year,Fiber,1,No
+39,Female,20,69.2,Month-to-month,Fiber,2,Yes
+53,Male,66,97.5,Two year,Fiber,0,No
+28,Female,7,50.4,Month-to-month,None,4,Yes
+49,Male,50,88.3,One year,DSL,1,No
+34,Female,16,66.5,Month-to-month,Fiber,3,Yes
+56,Male,78,103.8,Two year,Fiber,0,No
+32,Male,11,59.8,Month-to-month,DSL,2,Yes
+45,Female,39,85.6,One year,Fiber,1,No
+37,Male,17,64.7,Month-to-month,Fiber,2,Yes
+60,Female,90,110.2,Two year,Fiber,0,No
+29,Male,8,53.6,Month-to-month,None,4,Yes
+48,Female,45,87.4,One year,Fiber,1,No
+35,Female,13,62.1,Month-to-month,DSL,3,Yes
+52,Male,70,100.5,Two year,Fiber,0,No
