@@ -1,0 +1,21 @@
+Age,Income,CreditScore,Employment,Education,MaritalStatus,ExistingLoan,LoanAmount,Approved
+25,35000,680,Employed,College,Single,No,100000,No
+42,80000,760,Employed,Master,Married,Yes,250000,Yes
+30,45000,690,Self-Employed,College,Single,No,120000,No
+50,95000,810,Employed,Bachelor,Married,Yes,300000,Yes
+28,30000,640,Unemployed,High School,Single,No,80000,No
+37,70000,740,Employed,Bachelor,Married,No,180000,Yes
+45,85000,790,Self-Employed,Master,Married,Yes,220000,Yes
+26,32000,650,Unemployed,College,Single,No,90000,No
+34,60000,720,Employed,Bachelor,Married,No,150000,Yes
+29,40000,670,Self-Employed,College,Single,No,110000,No
+41,78000,755,Employed,Master,Married,Yes,240000,Yes
+33,52000,705,Employed,Bachelor,Single,No,140000,Yes
+27,31000,645,Unemployed,High School,Single,No,85000,No
+48,90000,800,Employed,Master,Married,Yes,280000,Yes
+36,65000,730,Self-Employed,Bachelor,Married,No,170000,Yes
+32,50000,700,Employed,College,Single,No,130000,Yes
+39,72000,745,Employed,Bachelor,Married,Yes,200000,Yes
+24,28000,630,Unemployed,High School,Single,No,75000,No
+44,87000,785,Self-Employed,Master,Married,Yes,260000,Yes
+31,47000,695,College,College,Single,No,125000,No
